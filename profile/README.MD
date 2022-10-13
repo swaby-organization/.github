@@ -90,7 +90,7 @@ Features
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: mohasal0101@gmail.com">
- <img src="https://img.shields.io/badge/-Swaby-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+ <img src="https://img.shields.io/badge/-Swapy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 
 </p>
 </a>
