@@ -13,8 +13,15 @@
 -->
 </p>
 
+ # Swaby
+ ## Description
  <p align="center">
   This website is a user-friendly interfaced platform that provides the ability for the end-user to exchange or buy items through our platform, the conducted study will have the project implemented from both frontend and backend servers with all the needed functionalities and the assistance of our members.
+ 
+ 
+  ## Installation
+- Clone the Frontend and Backend repositries
+- in your command line install the required packages using node package manager for both frontend and backend npm install
 
 </p>   
 
@@ -41,7 +48,6 @@
 <a href="mailto: mohasal0101@gmail.com">
  <img src="https://img.shields.io/badge/-Swaby-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 
-  
 </p>
 </a>
 </p>
