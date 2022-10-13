@@ -4,6 +4,55 @@
 
 </p align="center">
 
+# Project Agreement
+## Swapy
+
+
+Team members
+1.	Salah Al-Hamawi (TL)
+2.	Zaid Al-Shibi (CO-TL)
+3.	Fatima Khwaileh
+4.	Ahmad Al-Awamleh 
+
+
+## Communication plan
+***Every day has a standup meeting everyone will share what tasks they finished and the problem they face, and if they need another teammate to help with that problem, and what they must do during the day, we going to use GitHub as a task management system, and slack and WhatsApp for communication, all criticism directed by the team members to any other individual must be constructive criticism at the heart of the matter, in the event of a dispute, it is necessary to refer to the team leader or Co-team leader, and in the event of a problem in the team leader, you should refer to the instructor.***
+
+
+
+
+
+
+
+## Work plan
+<p>Tasks will be assigned depends on knowledge, and they need to deliver completed tasks by the end of the day, and every teammate needs to update their tasks on GitHub.</p>
+
+
+## Git process
+TL has created a new GitHub organization, then he will create a new Repo., Salah and Zaid will review the PR., then they will do the merge, the merge process will be every day when they do the merge, they will send a message on Slack.
+
+Project Description
+This website is a user-friendly interfaced platform that provides the ability for the end-user to exchange or buy items through our platform, the conducted study will have the project implemented from both frontend and backend servers with all the needed functionalities and the assistance of our members.
+
+User Stories
+-	The user will need to sign up or log in to start using the platform features.
+-	When the user signs up, he/she needs to provide a Full name, email address, phone number, location.
+-	The user will have the ability to choose between plans to be purchased (standard free plan, pro plan, platinum plan).
+-	The user will have the ability to view the listed items by over users and click on any one of them.
+-	After clicking, they will view the item information in addition to the owner information and a call-to-action buttons to either contact the owner or place an offer.
+-	The user will have the ability to rate the seller after the completed swapping.
+-	On the other hand, the user can add an item to be swapped and provide the full information about the item (item image, item description, location of swabbing for face-to-face swapping, the other item to be swapped for and the estimated price in case of selling).
+
+Features
+-	Add items to be swapped or sold.
+-	Live chatting for technical support.
+-	Live chatting between the user and the seller.
+-	Separated dashboard for the user to view, add, delete and update their listed items.
+-	Searching for an item with a specific category and specific city.
+-	The home page contains a recently added items to be viewed.
+
+
+
 <p align="center">
  
   <!--<img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
