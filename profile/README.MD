@@ -13,6 +13,7 @@ Team members
 2.	Zaid Al-Shibi (CO-TL)
 3.	Fatima Khwaileh
 4.	Ahmad Al-Awamleh 
+5. Bashar Al-Zrigat
 
 
 ## Communication plan
